@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is the capital of Saudi Arabia?",
+      option1: "Washington DC",
+      option2: "Riyadh",
+      option3: "Dubai",
+      option4: "Doha",
+      ans: 2,
+    },
+    {
+      question: "Which continent has the highest number of countries?",
+      option1: "Asia",
+      option2: "Europe",
+      option3: "North America",
+      option4: "Africa",
+      ans: 4,
+    },
+    {
+      question: "Which is the biggest country on the globe?",
+      option1: "India",
+      option2: "U.S.A",
+      option3: "Russia",
+      option4: "Australia",
+      ans: 3,
+    },
+    {
+      question: "Which one is the most populated country in the world?",
+      option1: "India",
+      option2: "Pakistan",
+      option3: "China",
+      option4: "U.S.A",
+      ans: 1,
+    },
+    {
+      question: "What are the number of continents in the world?",
+      option1: "2",
+      option2: "7",
+      option3: "9",
+      option4: "6",
+      ans: 2,
+    },
+  ];
